@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ChineseBook/Preface/2. How to use.md",
+                "file": "CNBook/0. 目录.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ChineseBook/Preface/2. How to use.md",
+                "file": "CNBook/0. 目录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ChineseBook/Preface/2. How to use.md",
+                "file": "CNBook/0. 目录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ChineseBook/Preface/2. How to use.md"
+                "file": "CNBook/0. 目录.md"
               }
             }
           }
@@ -148,18 +148,18 @@
   },
   "active": "b5b223882f14687b",
   "lastOpenFiles": [
+    "ENBook/0. Contents.md",
+    "ENBook/Preface/2. How to use.md",
     "assets/Figure 1.png",
-    "ChineseBook/Preface/2. How to use.md",
     "assets",
-    "ChineseBook/Preface/1. Intended Audience.md",
-    "ChineseBook/Preface/0. The Goal.md",
-    "ChineseBook/Preface",
-    "ChineseBook/Index.md",
-    "OriginalBook/0. 目录.md",
-    "ChineseBook/0. Contents.md",
+    "ENBook/Preface/1. Intended Audience.md",
+    "ENBook/Preface/0. The Goal.md",
+    "ENBook/Preface",
+    "ENBook/Index.md",
+    "CNBook/0. 目录.md",
     "Index.md",
-    "ChineseBook",
-    "OriginalBook",
+    "ENBook",
+    "CNBook",
     "Welcome.md",
     "Contents"
   ]

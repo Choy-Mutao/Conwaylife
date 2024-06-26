@@ -102,7 +102,15 @@ public class UIManager : MonoBehaviour {
 
 	}
 
-	#endregion
+	/// <summary>
+	/// Reset the Cells to start before;
+	/// </summary>
+    public void Reset()
+    {
+
+    }
+
+    #endregion
 
 
 }

@@ -11,8 +11,12 @@
             "id": "e31f4eedab27de6a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ChineseBook/Preface/The Goal.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ChineseBook/Preface/The Goal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ChineseBook/Preface/The Goal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ChineseBook/Preface/The Goal.md"
+              }
             }
           }
         ]
@@ -138,8 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e31f4eedab27de6a",
+  "active": "b5b223882f14687b",
   "lastOpenFiles": [
+    "ChineseBook/Preface/The Goal.md",
+    "ChineseBook/Preface",
     "ChineseBook/Index.md",
     "OriginalBook/0. 目录.md",
     "ChineseBook/0. Contents.md",

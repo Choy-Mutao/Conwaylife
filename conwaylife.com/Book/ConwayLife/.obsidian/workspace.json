@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CNBook/0. 目录.md",
+                "file": "ENBook/Preface/4. Acknowledgments.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CNBook/0. 目录.md",
+                "file": "ENBook/Preface/4. Acknowledgments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CNBook/0. 目录.md",
+                "file": "ENBook/Preface/4. Acknowledgments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CNBook/0. 目录.md"
+                "file": "ENBook/Preface/4. Acknowledgments.md"
               }
             }
           }
@@ -146,17 +146,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b5b223882f14687b",
+  "active": "e31f4eedab27de6a",
   "lastOpenFiles": [
-    "ENBook/0. Contents.md",
+    "ENBook/Preface/3. Exercises.md",
+    "ENBook/Preface/4. Acknowledgments.md",
     "ENBook/Preface/2. How to use.md",
+    "assets/Figure 3&4.png",
+    "CNBook/0. 目录.md",
+    "assets/Figure 2.png",
+    "ENBook/0. Contents.md",
     "assets/Figure 1.png",
     "assets",
     "ENBook/Preface/1. Intended Audience.md",
     "ENBook/Preface/0. The Goal.md",
     "ENBook/Preface",
     "ENBook/Index.md",
-    "CNBook/0. 目录.md",
     "Index.md",
     "ENBook",
     "CNBook",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENBook/Preface/4. Acknowledgments.md",
+                "file": "ENBook/1 Classical Topics/1 Early Life/0 Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENBook/Preface/4. Acknowledgments.md",
+                "file": "ENBook/1 Classical Topics/1 Early Life/0 Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ENBook/Preface/4. Acknowledgments.md",
+                "file": "ENBook/1 Classical Topics/1 Early Life/0 Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENBook/Preface/4. Acknowledgments.md"
+                "file": "ENBook/1 Classical Topics/1 Early Life/0 Index.md"
               }
             }
           }
@@ -148,23 +148,42 @@
   },
   "active": "e31f4eedab27de6a",
   "lastOpenFiles": [
-    "ENBook/Preface/3. Exercises.md",
-    "ENBook/Preface/4. Acknowledgments.md",
-    "ENBook/Preface/2. How to use.md",
+    "ENBook/0 Preface/0. The Goal.md",
+    "ENBook/1 Classical Topics/1 Early Life/0 Index.md",
+    "ENBook/0 Preface/1. Intended Audience.md",
+    "ENBook/0 Preface/2. How to use.md",
+    "ENBook/0 Preface/3. Exercises.md",
+    "ENBook/0 Preface/4. Acknowledgments.md",
+    "ENBook/4 Appendices and Supplements/B Extra Details/B.3 Scorbie Splitter Maker Timings.md",
+    "ENBook/4 Appendices and Supplements/A Mathematical Miscellany/A.3 Big-Theta Notation.md",
+    "pys/simple cod.md",
+    "pys/simple code.py",
+    "pys/Untitled",
+    "pys",
+    "ENBook/4 Appendices and Supplements/A Mathematical Miscellany/A.2 Greatest Common Divisor and Least Common Multiple.md",
+    "ENBook/4 Appendices and Supplements/A Mathematical Miscellany/A.1 Modular Congruence.md",
+    "ENBook/4 Appendices and Supplements/A Mathematical Miscellany/A.0 Index.md",
+    "ENBook/4 Appendices and Supplements/B Extra Details/B.8 pi Calculator APGsembly Code.md",
+    "ENBook/4 Appendices and Supplements/B Extra Details/B.7 Non-Istropic Rulestrings.md",
+    "ENBook/4 Appendices and Supplements/B Extra Details/B.6 Isotropic Rulestrings.md",
+    "ENBook/4 Appendices and Supplements/B Extra Details/B.5 Cordership Maker Timings.md",
+    "ENBook/4 Appendices and Supplements/B Extra Details/B.4 Scorbie Splitter Destroyer Timings.md",
+    "ENBook/4 Appendices and Supplements/B Extra Details/B.2 Snarkmaker Timings.md",
+    "ENBook/4 Appendices and Supplements/B Extra Details/B.1 Universality of the Clock Inserter.md",
+    "ENBook/Contents.md",
+    "ENBook/Index.md",
+    "ENBook/4 Appendices and Supplements/C Solutions to Selected Exercises",
+    "ENBook/4 Appendices and Supplements/B Extra Details",
+    "ENBook/4 Appendices and Supplements/A Mathematical Miscellany",
+    "ENBook/3 Constructions/12 The 0E0P Metacell",
+    "ENBook/3 Constructions/11 Universal Construction",
+    "ENBook/3 Constructions/10 Self-Supporting Spaceships",
+    "ENBook/3 Constructions/9 Universal Computation",
     "assets/Figure 3&4.png",
     "CNBook/0. 目录.md",
     "assets/Figure 2.png",
-    "ENBook/0. Contents.md",
     "assets/Figure 1.png",
-    "assets",
-    "ENBook/Preface/1. Intended Audience.md",
-    "ENBook/Preface/0. The Goal.md",
-    "ENBook/Preface",
-    "ENBook/Index.md",
     "Index.md",
-    "ENBook",
-    "CNBook",
-    "Welcome.md",
-    "Contents"
+    "Welcome.md"
   ]
 }
